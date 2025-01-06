@@ -15,12 +15,10 @@ npm install express highlight.js
 ```
 
 ## running
+download `index.js` to your project folder
 ```
 node index.js
 ```
-
-## usage
-download `index.js` to your project folder
 
 ## preview
 ![curl](curl.png)
