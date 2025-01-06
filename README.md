@@ -21,3 +21,8 @@ node index.js
 
 ## usage
 download `index.js` to your project folder
+
+## preview
+![curl](curl.png)
+![web js](web-js.png)
+![web py](web-py.png)
